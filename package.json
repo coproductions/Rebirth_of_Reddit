@@ -1,0 +1,19 @@
+{
+  "name": "revirth_of_reddit",
+  "version": "1.0.0",
+  "description": "create a Reddit clone with our own theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coproductions/Rebirth_of_Reddit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coproductions/Rebirth_of_Reddit/issues"
+  },
+  "homepage": "https://github.com/coproductions/Rebirth_of_Reddit#readme"
+}
